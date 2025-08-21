@@ -10,6 +10,6 @@ rustup toolchain install stable
 ```
 
 TBD
-- [] Realtime core contracts
-- [] Lock-free mailbox between GUI and audio
-- [] JACK backend
+[] Realtime core contracts
+[] Lock-free mailbox between GUI and audio
+[] JACK backend
